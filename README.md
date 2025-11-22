@@ -21,15 +21,10 @@ I maintain my technical project portfolio under a dedicated GitHub organization:
 👉 **https://github.com/gallant-labs**
 
 It includes:
-<!--
-- **Unity WebGL Build Pipeline (CI/CD)**
-- **Python Log Analyzer**
-- **Playwright Test Automation Demo**
-- **Internal Tools / Scripting Utilities**
-- **Unity Mini WebGL Project**
+*COMING SOON*
 
 All repositories emphasize automation, documentation clarity, and realistic engineering workflows.
--->
+
 ---
 
 ## 🧪 Technical Focus Areas
@@ -65,21 +60,8 @@ This mix allows me to blend engineering, documentation, mentoring, and automatio
 ---
 
 ## 📦 Selected Projects
-<!--
-Here are a few highlights — see **[Gallant Labs](https://github.com/gallant-labs)** for the full portfolio.
 
-### 🔹 Unity WebGL Build Pipeline  
-Automated CI/CD workflow using GitHub Actions to build & deploy Unity WebGL projects (single-repo Pages or multi-repo classroom mode).
-
-### 🔹 Python Log Analyzer  
-Utility to parse logs, detect error patterns, and support production/debug workflows.
-
-### 🔹 Playwright Smoke Test Demo  
-Simple, modern automated test suite with screenshots, HTML reports, and CI integration.
-
-### 🔹 Folder Organizer Tool  
-Python automation for large-scale file cleanup and internal tools workflows.
--->
+*COMING SOON!*
 ---
 
 ## 📫 How to Reach Me
