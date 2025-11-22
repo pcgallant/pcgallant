@@ -11,58 +11,6 @@ I’m a technology-focused educator and former enterprise systems analyst now bu
 
 I love designing workflows that make developers (and students!) faster, more confident, and more independent.
 
----
-
-## 🔧 What I'm Working On
-
-### **Gallant Labs (Portfolio Organization)**
-I maintain my technical project portfolio under a dedicated GitHub organization:
-
-👉 **https://github.com/gallant-labs**
-
-It includes:
-*COMING SOON*
-
-All repositories emphasize automation, documentation clarity, and realistic engineering workflows.
-
----
-
-## 🧪 Technical Focus Areas
-
-- **CI/CD & Dev Automation**  
-  GitHub Actions, Unity WebGL pipelines, cross-repo deployments  
-
-- **Scripting & Internal Tools**  
-  Python utilities, file automation, log analysis, operational scripts  
-
-- **Testing & QA Automation**  
-  Playwright, Selenium, pytest, smoke tests, test architecture  
-
-- **Unity Development & Tooling**  
-  WebGL builds, student project workflows, build publishing  
-
-- **Educational Technology**  
-  Classroom automation, GitHub-based student workflows, technical curriculum
-
----
-
-## 🎓 Background Snapshot
-
-I’ve spent my career across:
-- **Software/system analysis**
-- **Business analysis & project management**
-- **Technical integration in large enterprise environments**
-- **Teaching Game Design & Business Technology**
-- **Building student-friendly CI/CD systems and technical tools**
-
-This mix allows me to blend engineering, documentation, mentoring, and automation in a way that’s both practical and user-focused.
-
----
-
-## 📦 Selected Projects
-
-*COMING SOON!*
----
 
 ## 📫 How to Reach Me
 
